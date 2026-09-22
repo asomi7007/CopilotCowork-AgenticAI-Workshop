@@ -137,8 +137,7 @@ Procedure), 일상 업무를 지원하는 Holiday helper agent(연말연시 업�
 
     ![](images/image7.png)
 
-10. **열기** 대화 상자에서 **C:\LabFiles\Lab-Files\labfiles\lab6** 폴더로 이동하여
-    **(1) Holiday_Return_Policy.docx**를 선택한 다음 **(2) 열기**를 선택합니다.
+10. GitHub 저장소의 **[08-Lab6-에이전트-365-거버넌스-모니터링/labfiles](labfiles)** 폴더에서 **(1) [Holiday_Return_Policy.docx](labfiles/Holiday_Return_Policy.docx)** 파일을 다운로드한 다음, **열기** 대화 상자에서 해당 파일을 선택하고 **(2) 열기**를 선택합니다.
 
     ![](images/image8.png)
 
