@@ -197,8 +197,7 @@
 
     ![](images/new1.png)
 
-1. **열기** 대화 상자에서 **C:\LabFiles\Lab-Files\labfiles\lab1** 폴더로 이동하여
-   **(1) zava-past-campaign-summary**를 선택한 다음 **(2) 열기**를 선택합니다.
+1. GitHub 저장소의 **[03-Lab1-마케팅-운영-에이전트/labfiles](labfiles)** 폴더에서 **(1) [zava-past-campaign-summary.docx](labfiles/zava-past-campaign-summary.docx)** 파일을 다운로드한 다음, **열기** 대화 상자에서 해당 파일을 선택하고 **(2) 열기**를 선택합니다.
 
     ![](images/e1t2s9.png)
 
