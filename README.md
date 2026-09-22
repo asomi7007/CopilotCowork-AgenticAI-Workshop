@@ -31,8 +31,10 @@
 ```
 CopilotCowork-AgenticAI-Workshop/
 ├── README.md            ← 이 파일 (세션 인덱스)
+├── labfiles/            ← 공용 랩 자료 (Zava Retail 반품 정책)
 └── 01~09 섹션 폴더/
     ├── README.md        ← 해당 섹션 랩 가이드 (전체 본문)
+    ├── labfiles/         ← 해당 랩 실습 자료 파일
     └── images/           ← 섹션에 포함된 스크린샷
 ```
 
