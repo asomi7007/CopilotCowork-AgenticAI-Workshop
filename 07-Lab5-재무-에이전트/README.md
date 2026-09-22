@@ -65,13 +65,13 @@ Cost of Goods Sold) 추정치를 확정하고 있습니다. 팀의 수석 재무
 
    ![](images/k1.png)
 
-1. **C:\LabFiles\Lab-Files\labfiles\lab5**로 이동하여 다음 파일을 선택합니다:
-   `Zava Home COGS Estimates.xlsx`, `Zava Retail Finance meeting notes.txt`,
+1. GitHub 저장소의 **[07-Lab5-재무-에이전트/labfiles](labfiles)** 폴더에서 다음 파일을 다운로드합니다:
+   `Zava Homes COGS update.xlsx`, `Zava Retail Finance meeting notes.txt`,
    `Relecloud Business Perspective.docx`
 
    ![](images/k2.png)
 
-1. **원드라이브(OneDrive) > 내 파일**에서 업로드한 `Zava Home COGS Estimates.xlsx`
+1. **원드라이브(OneDrive) > 내 파일**에서 업로드한 `Zava Homes COGS update.xlsx`
    파일을 선택하여 열고 내용을 검토합니다.
 
    ![](images/k3.png)
@@ -88,7 +88,7 @@ Cost of Goods Sold) 추정치를 확정하고 있습니다. 팀의 수석 재무
    걸릴 수 있습니다.
 
    ```
-   저는 자바 리테일(Zava Retail)의 재무 분석가입니다. 자바 리테일(Zava Retail)의 신규 Zava Home 제품 라인을 위한 Zava Home COGS Estimates 스프레드시트를 분석해 주세요. 이 스프레드시트의 데이터 세트를 검토하여 새 시트에 다음 두 가지를 제공해 주세요. (1) 각 주요 열과 그 목적에 대한 명확한 설명, (2) 정확성에 영향을 줄 수 있는 누락되거나 일관성이 없는 데이터 포인트 목록. 새 시트에 간결하고 구조화된 형식으로 결과를 제시해 주세요.
+   저는 자바 리테일(Zava Retail)의 재무 분석가입니다. 자바 리테일(Zava Retail)의 신규 Zava Home 제품 라인을 위한 Zava Homes COGS update 스프레드시트를 분석해 주세요. 이 스프레드시트의 데이터 세트를 검토하여 새 시트에 다음 두 가지를 제공해 주세요. (1) 각 주요 열과 그 목적에 대한 명확한 설명, (2) 정확성에 영향을 줄 수 있는 누락되거나 일관성이 없는 데이터 포인트 목록. 새 시트에 간결하고 구조화된 형식으로 결과를 제시해 주세요.
    ```
 
 1. 출력 결과를 검토합니다. 코파일럿이 새 시트에 열 설명과 데이터 품질 이슈를 정리하고,
@@ -188,7 +188,7 @@ Cost of Goods Sold) 추정치를 확정하고 있습니다. 팀의 수석 재무
 
 1. 원드라이브(OneDrive)의 **내 파일(My files)**에서 연습 1에 업로드한
    `Relecloud Business Perspective.docx` 파일을 확인합니다. 아직 업로드하지 않았다면
-   **C:\LabFiles\Lab-Files\labfiles\lab5**에서 해당 파일을 업로드합니다.
+   **[07-Lab5-재무-에이전트/labfiles](labfiles)** 폴더에서 해당 파일을 다운로드하여 업로드합니다.
 
    ![](images/k11.png)
 
