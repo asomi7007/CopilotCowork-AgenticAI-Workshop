@@ -176,13 +176,13 @@
 
     ![](images/tdr6.0.png)
 
-1. **C:\LabFiles\Lab-Files\labfiles\lab3**으로 이동하여 **(1) 다음 5개 문서**를 모두 선택합니다.
+1. GitHub 저장소의 **[05-Lab3-인력-역량-강화-에이전트/labfiles](labfiles)** 폴더에서 **(1) 다음 5개 문서**를 모두 다운로드합니다.
 
-   - 01_RMS_Onboarding_Guide
-   - 03_Store_Operations_Handbook
-   - 04_Supply_Chain_Transition_Playbook
-   - AI_Inventory_Forecasting_SOP
-   - ERP_Migration_Training_Documentation
+   - [01_RMS_Onboarding_Guide.docx](labfiles/01_RMS_Onboarding_Guide.docx)
+   - [03_Store_Operations_Handbook.docx](labfiles/03_Store_Operations_Handbook.docx)
+   - [04_Supply_Chain_Transition_Playbook.docx](labfiles/04_Supply_Chain_Transition_Playbook.docx)
+   - [AI_Inventory_Forecasting_SOP.docx](labfiles/AI_Inventory_Forecasting_SOP.docx)
+   - [ERP_Migration_Training_Documentation.docx](labfiles/ERP_Migration_Training_Documentation.docx)
 
    그런 다음 **(2) 열기**를 선택하여 선택한 파일을 업로드합니다.
 
