@@ -124,7 +124,7 @@
 
    ![](images/td6.png)
 
-1. **C:\LabFiles\Lab-Files\labfiles\lab4**로 이동하여 **(1) Zava_Inventory** 파일을 선택하고 **(2) 열기**를 선택합니다. **파일 업로드** 창에 파일이 표시되면 **에이전트에 추가**를 선택합니다. 잠시 후 **참조 자료** 섹션에 파일이 **준비** 상태로 표시됩니다.
+1. GitHub 저장소의 **[06-Lab4-코파일럿-스튜디오-보안-거버넌스/labfiles](labfiles)** 폴더에서 **[Zava_Inventory.xlsx](labfiles/Zava_Inventory.xlsx)** 파일을 다운로드한 후, **(1) Zava_Inventory** 파일을 선택하고 **(2) 열기**를 선택합니다. **파일 업로드** 창에 파일이 표시되면 **에이전트에 추가**를 선택합니다. 잠시 후 **참조 자료** 섹션에 파일이 **준비** 상태로 표시됩니다.
 
    ![](images/td7.png)
 
