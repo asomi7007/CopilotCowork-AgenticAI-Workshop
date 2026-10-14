@@ -1,7 +1,7 @@
 # 코파일럿 코워크 및 코파일럿 스튜디오로 에이전틱 AI 대화 주도하기
 
 > Microsoft Cloud Sandbox (CloudLabs by Spektra Systems) 랩 세션 가이드 모음입니다.
-> 소매 회사 **자바 리테일(Zava Retail)** 시나리오 기반으로, Microsoft 365 코파일럿 · 코파일럿 코워크 · 코파일럿 스튜디오를 활용한 에이전틱 AI 실습 7개 랩으로 구성됩니다.
+> 소매 회사 **자바 리테일(Zava Retail)** 시나리오 기반으로, Microsoft 365 코파일럿 · 코파일럿 코워크 · 코파일럿 스튜디오를 활용한 에이전틱 AI 실습 9개 랩으로 구성됩니다.
 
 ## 전체 구성
 
@@ -16,6 +16,8 @@
 | 7 | [07-Lab5-재무-에이전트](./07-Lab5-%EC%9E%AC%EB%AC%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/) | Microsoft 365 코파일럿 재무 에이전트로 재무 보고 및 인수 모델링 최적화 | 30분 |
 | 8 | [08-Lab6-에이전트-365-거버넌스-모니터링](./08-Lab6-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-365-%EA%B1%B0%EB%B2%84%EB%84%8C%EC%8A%A4-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81/) | 에이전트 365(Agent 365)로 자바 리테일 에이전트 생태계 거버넌스 및 모니터링 | - |
 | 9 | [09-Lab7-퀴즈-생성-프롬프트-액션](./09-Lab7-%ED%80%B4%EC%A6%88-%EC%83%9D%EC%84%B1-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%95%A1%EC%85%98/) | 퀴즈 생성 에이전트의 토픽을 위한 프롬프트 액션 구현 | 40분 |
+| 10 | [10-Lab8-M365-코파일럿-비즈니스-사용자](./10-Lab8-M365-%EC%BD%94%ED%8C%8C%EC%9D%BC%EB%9F%BF-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EC%82%AC%EC%9A%A9%EC%9E%90/) | 비즈니스 사용자를 위한 Microsoft 365 코파일럿 해크 인 어 데이(Outlook, Teams, Word, Excel, BizChat) | 약 4시간 45분 |
+| 11 | [11-Lab9-지식-내비게이터-에이전트](./11-Lab9-%EC%A7%80%EC%8B%9D-%EB%82%B4%EB%B9%84%EA%B2%8C%EC%9D%B4%ED%84%B0-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/) | Copilot Studio로 사내 지식 내비게이터 에이전트 구축 후 Teams 배포 | - |
 
 ## 학습 목표 요약
 
@@ -25,6 +27,8 @@
 - 코파일럿 스튜디오에서 SharePoint 기반 코파일럿 에이전트 구축 및 다중 에이전트 오케스트레이션 설계
 - 컴퓨터 사용 에이전트(CUA)로 API 없는 레거시 시스템과의 상호 작용 자동화
 - 파워 앱스, 데이터버스, 파워 오토메이트와 통합된 자율 IT 지원 에이전트 구축
+- Outlook, Teams, Word, Excel, Microsoft 365 Chat 전역의 코파일럿 실무 활용과 4요소 프롬프트 프레임워크 습득
+- Copilot Studio로 SharePoint 지식 기반 내부 코파일럿을 만들고 에이전트 플로우와 Teams 배포까지 구현
 
 ## 폴더 구조
 
@@ -32,7 +36,7 @@
 CopilotCowork-AgenticAI-Workshop/
 ├── README.md            ← 이 파일 (세션 인덱스)
 ├── labfiles/            ← 공용 랩 자료 (Zava Retail 반품 정책)
-└── 01~09 섹션 폴더/
+└── 01~11 섹션 폴더/
     ├── README.md        ← 해당 섹션 랩 가이드 (전체 본문)
     ├── labfiles/         ← 해당 랩 실습 자료 파일
     └── images/           ← 섹션에 포함된 스크린샷
